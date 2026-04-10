@@ -1,0 +1,11 @@
+.student{
+    font-family: Ariel, sans-serif;
+    font-size: 1em;
+    padding: 10px;
+    border: 1px solid black;
+    padding: 20px;
+    max-width: 200px;
+}
+.student p{
+    margin: 2px;
+}
